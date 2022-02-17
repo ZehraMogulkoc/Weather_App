@@ -1,6 +1,9 @@
 # clima_app
-![weatherapp](https://user-images.githubusercontent.com/87859856/154484779-e80c2a7e-e8c3-40c3-b44c-e417a74c33a5.png)
-![weather2](https://user-images.githubusercontent.com/87859856/154484812-745f2efd-2750-464f-bdee-bbe30140358f.png)
+<p align='center'>
+<img src ='https://user-images.githubusercontent.com/87859856/154484779-e80c2a7e-e8c3-40c3-b44c-e417a74c33a5.png' width="250">
+ 
+<img src ='https://user-images.githubusercontent.com/87859856/154484812-745f2efd-2750-464f-bdee-bbe30140358f.png' width="250">
+</p>
 
 A new Flutter project.
 
